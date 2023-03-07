@@ -1,3 +1,3 @@
 # zero_day
 
-### This is a mandaroty file in the project 
+- ### This is a mandaroty file in the project 
